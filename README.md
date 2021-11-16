@@ -12,6 +12,12 @@ various commands using a web project
 
 ## Purpose
 
+As stated above, the purpose is to
+provide simple examples for Git
+training demos
+
 ## Deployment
+
+This is a simple web project deployment
 
 ## How To Contribute
