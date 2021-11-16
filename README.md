@@ -21,3 +21,7 @@ training demos
 This is a simple web project deployment
 
 ## How To Contribute
+
+### Copiright
+
+2014 Gitc.Training.
