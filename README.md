@@ -4,6 +4,8 @@ This is a simple website
 ptroject for showing how
 to use Git and Github.
 
+Adding a line for rebasing example
+
 ## Introduction
 
 Thsi is example to show different
