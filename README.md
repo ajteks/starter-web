@@ -22,6 +22,9 @@ This is a simple web project deployment
 
 ## How To Contribute
 
+Please fork this repository and then issue
+Pull Requests for review
+
 ### Copiright
 
 2014 Gitc.Training.
