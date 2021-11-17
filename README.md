@@ -4,7 +4,8 @@ This is a simple website
 ptroject for showing how
 to use Git and Github.
 
-Adding a line for rebasing example
+Adding a line for rebasing example, than
+more changes from my feature branch too.
 
 ## Introduction
 
