@@ -30,4 +30,4 @@ Pull Requests for review
 
 ### Copiright
 
-2014 Gitc.Training.
+2014 Gitc.Training. All rights reserved.
